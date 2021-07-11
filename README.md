@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Test repository for learning github, version control and working with others on polkaswap arbitrage dashboard.
+
 <!--
 **AugChainZigg/augchainzigg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
